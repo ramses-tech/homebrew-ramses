@@ -5,7 +5,7 @@ brew tap ramses-tech/ramses
 brew install ramses
 ```
 
-## Releasing new version of deb package:
+## Releasing new version:
 1. Clone this repo: `git clone git@github.com:ramses-tech/homebrew-ramses.git`
 2. Edit `ramses.rb` and commit/push the changes
 3. On your machine run `brew update`
