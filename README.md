@@ -1,3 +1,5 @@
+Homebrew formula of `ramses` app.
+
 ## Installation:
 
 ```shell
